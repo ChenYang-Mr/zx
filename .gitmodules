@@ -1,0 +1,6 @@
+[submodule "28379d_CPU1_temp"]
+	path = 28379d_CPU1_temp
+	url = https://github.com/ChenYang-Mr/28379d_CPU1_temp.git
+[submodule "LED_MODULE"]
+	path = LED_MODULE
+	url = https://github.com/ChenYang-Mr/LED_MODULE.git
